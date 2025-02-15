@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on variety of projects (currently more focused on website building and designing)
 - 📫 How to reach me utkarshnimishra2021@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: I am into cooding because I like to create things.
+- ⚡ Fun fact: I am into coding because I like to create things.
 
 <!---
 codewith-utkarshni/codewith-utkarshni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
